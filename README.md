@@ -4,7 +4,9 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
-Confira tudo o que temos no Youtube -> Téo Me Why
+Confira tudo o que temos no Youtube -> Téo Me Why segue o link:
+
+[curso git 2025] (https://youtube.com/@teomewhy)
 
 ## Fluxo de trabalho Git local
 
